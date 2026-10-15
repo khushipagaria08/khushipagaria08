@@ -39,7 +39,7 @@ Currently exploring:
 ## Projects
 
 ### [Voice Forensics — SIH 2026](https://github.com/BAT4K/sih26104-voice-forensics)
-Collaborated on this team project for Smart India Hackathon 2026. Our team was selected for the next round.
+Collaborated on this team project for Smart India Hackathon 2026. 
 You can explore my repositories to see what I’m currently working on.
 
 ## Connect
